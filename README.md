@@ -1,4 +1,5 @@
-❄️ Snowball Script
+❄️ SNOWBALL SCRIPT!
+
 ✨ Bring winter fun to your server with this simple and entertaining snowball gathering script! Perfect for winter events or just for fun.
 
 🔥 Features
@@ -17,7 +18,6 @@
 🛠️ Customization Options
 🎨 Modify appearance and colors to suit your server’s theme.
 🔢 Adjust snowball count, collection time, and other parameters.
-📌 Add or customize snowball collection locations.
 
 🎯 Why This Script?
 🌟 Add winter vibes to your server.
